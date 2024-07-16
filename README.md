@@ -17,5 +17,5 @@ Proyecto de Java que utiliza la API de [ExchangeRate-API](https://www.exchangera
 
 ## Demostración
 
-![Demo GIF](ruta/a/tu/archivo.gif)
+![Demo GIF](https://github.com/ssuarezcode/conversor-monedas-oracleone/blob/main/Demo.gif?raw=true)
 
