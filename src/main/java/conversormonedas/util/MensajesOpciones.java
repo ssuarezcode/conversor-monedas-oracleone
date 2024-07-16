@@ -4,19 +4,23 @@ public class MensajesOpciones {
 
     public static String obtenerMensaje() {
         return String.format("""
+                ****************************************
                 *** Selecciona la moneda a convertir ***
 
-                1  - De Pesos a Dólares
-                2  - De Pesos a Euros
-                3  - De Pesos a Libras
-                4  - De Pesos a Yen
-                5  - De Pesos a Won Coreano
-                6  - De Dólares a Pesos
-                7  - De Euros a Pesos
-                8  - De Libras a Pesos
-                9  - De Yen a Pesos
-                10 - De Won Coreano a Pesos
-                11 - Salir
+                1  - Pesos [COP] a Dólares [USD]
+                2  - Pesos [COP] a Euros [EUR]
+                3  - Pesos [COP] a Libras [GBP]
+                4  - Pesos [COP] a Yen [JPY]
+                5  - Pesos [COP] a Won Coreano [KRW]
+                
+                6  - Dólares [USD] a Pesos [COP]
+                7  - Euros [EUR] a Pesos [COP]
+                8  - Libras [GBP] a Pesos [COP]
+                9  - Yen [JPY] a Pesos [COP]
+                10 - Won Coreano [KRW]a Pesos [COP]
+                
+                11 - Salir                
+                ****************************************
                 """);
     }
 }
